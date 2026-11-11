@@ -48,7 +48,7 @@ project/
 │
 ├── turbowarp_english_keyboard_interactive.sb3  # Проект: Интерактивная клавиатура (60 спрайтов)
 ├── turbowarp_all_95_symbols_sprites.sb3        # Проект: Все 95 символов (95 отдельных спрайтов)
-└── turbowarp_english_keyboard_svg_sprites.zip  # Полный архив со всеми файлами
+└── project.zip  # Полный архив со всеми файлами
 ```
 
 ---
